@@ -1,0 +1,145 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the openmediavault-minidlna package.
+# 
+# Translators:
+# Gyuris Gellért <bubu@ujevangelizacio.hu>, 2018-2019
+msgid ""
+msgstr ""
+"Project-Id-Version: openmediavault-minidlna\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-19 11:25-0600\n"
+"PO-Revision-Date: 2019-01-27 21:10+0000\n"
+"Last-Translator: Gyuris Gellért <bubu@ujevangelizacio.hu>\n"
+"Language-Team: Hungarian (Hungary) (http://www.transifex.com/openmediavault-plugin-developers/openmediavault-minidlna/language/hu_HU/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: hu_HU\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Add media share"
+msgstr "Médiamegosztás hozzáadása"
+
+msgid "All Media"
+msgstr "Minden média"
+
+msgid "All media"
+msgstr "Minden média"
+
+msgid "Audio"
+msgstr "Audio"
+
+msgid "Browse"
+msgstr "Tallózás"
+
+msgid "Component"
+msgstr "Komponens"
+
+msgid "Content Type"
+msgstr "Tartalomtípus"
+
+msgid "Content Type(s)"
+msgstr "Tartalomtípusok"
+
+msgid "DLNA"
+msgstr "DLNA"
+
+msgid "Date & Time"
+msgstr "Dátum és idő"
+
+msgid "Debug"
+msgstr "Hibakeresés"
+
+msgid "Edit media share"
+msgstr "Médiamegosztás szerkesztése"
+
+msgid "Enable"
+msgstr "Engedélyezés"
+
+msgid "Error"
+msgstr "Hiba"
+
+msgid "Event"
+msgstr "Esemény"
+
+msgid "Extra options"
+msgstr "További beállítások"
+
+msgid "Fatal"
+msgstr "Végzetes"
+
+msgid "General settings"
+msgstr "Általános beállítások"
+
+msgid "Images"
+msgstr "Képek"
+
+msgid "Info"
+msgstr "Info"
+
+msgid "Log Level"
+msgstr "Naplózási szint"
+
+msgid "MiniDLNA"
+msgstr "MiniDLNA"
+
+msgid "MiniDLNA on OpenMediaVault"
+msgstr "MiniDLNA az OpenMediaVault-on"
+
+msgid "Music"
+msgstr "Zene"
+
+msgid "Name"
+msgstr "Név"
+
+msgid "Off"
+msgstr "Kikapcsolva"
+
+msgid "Pictures"
+msgstr "Fotók"
+
+msgid "Port"
+msgstr "Port"
+
+msgid "Rescan"
+msgstr "Új keresés"
+
+msgid "Root Container"
+msgstr "Gyökérkonténer"
+
+msgid "Settings"
+msgstr "Beállítások"
+
+msgid "Shared Folder"
+msgstr "Megosztott mappa"
+
+msgid "Shared folder containing media files"
+msgstr "Médiafájlokat tartalmazó megosztott mappa"
+
+msgid "Shares"
+msgstr "Megosztások"
+
+msgid "Standard"
+msgstr "Standard"
+
+msgid "Strict DLNA"
+msgstr "Szigorú DLNA"
+
+msgid "Strictly adhere to DLNA standards."
+msgstr "Szigorú ragaszkodás a DLNA-szabványokhoz."
+
+msgid "TiVo support"
+msgstr "TiVo támogatás"
+
+msgid "Video"
+msgstr "Videó"
+
+msgid "Warn"
+msgstr "Figyelmeztetés"
+
+msgid "Wide links"
+msgstr "Széles hivatkozások"
+
+msgid "n/a"
+msgstr "nincs"

@@ -1,0 +1,5 @@
+openmediavault-minidlna-docker (5.0) stable; urgency=low
+
+  * Initial commit
+
+ -- OpenMediaVault Plugin Developers <plugins@omv-extras.org>  Wed, 26 Aug 2020 05:47:24 -0500

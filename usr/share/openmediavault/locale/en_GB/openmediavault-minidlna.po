@@ -1,0 +1,145 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the openmediavault-minidlna package.
+# 
+# Translators:
+# Andi Chandler <andi@gowling.com>, 2015-2016,2019
+msgid ""
+msgstr ""
+"Project-Id-Version: openmediavault-minidlna\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-19 11:25-0600\n"
+"PO-Revision-Date: 2019-12-03 13:07+0000\n"
+"Last-Translator: Andi Chandler <andi@gowling.com>\n"
+"Language-Team: English (United Kingdom) (http://www.transifex.com/openmediavault-plugin-developers/openmediavault-minidlna/language/en_GB/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en_GB\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Add media share"
+msgstr "Add media share"
+
+msgid "All Media"
+msgstr "All Media"
+
+msgid "All media"
+msgstr "All media"
+
+msgid "Audio"
+msgstr "Audio"
+
+msgid "Browse"
+msgstr "Browse"
+
+msgid "Component"
+msgstr "Component"
+
+msgid "Content Type"
+msgstr "Content Type"
+
+msgid "Content Type(s)"
+msgstr "Content Type(s)"
+
+msgid "DLNA"
+msgstr "DLNA"
+
+msgid "Date & Time"
+msgstr "Date & Time"
+
+msgid "Debug"
+msgstr "Debug"
+
+msgid "Edit media share"
+msgstr "Edit media share"
+
+msgid "Enable"
+msgstr "Enable"
+
+msgid "Error"
+msgstr "Error"
+
+msgid "Event"
+msgstr "Event"
+
+msgid "Extra options"
+msgstr "Extra options"
+
+msgid "Fatal"
+msgstr "Fatal"
+
+msgid "General settings"
+msgstr "General settings"
+
+msgid "Images"
+msgstr "Images"
+
+msgid "Info"
+msgstr "Info"
+
+msgid "Log Level"
+msgstr "Log Level"
+
+msgid "MiniDLNA"
+msgstr "MiniDLNA"
+
+msgid "MiniDLNA on OpenMediaVault"
+msgstr "MiniDLNA on OpenMediaVault"
+
+msgid "Music"
+msgstr "Music"
+
+msgid "Name"
+msgstr "Name"
+
+msgid "Off"
+msgstr "Off"
+
+msgid "Pictures"
+msgstr "Pictures"
+
+msgid "Port"
+msgstr "Port"
+
+msgid "Rescan"
+msgstr "Rescan"
+
+msgid "Root Container"
+msgstr "Root Container"
+
+msgid "Settings"
+msgstr "Settings"
+
+msgid "Shared Folder"
+msgstr "Shared Folder"
+
+msgid "Shared folder containing media files"
+msgstr "Shared folder containing media files"
+
+msgid "Shares"
+msgstr "Shares"
+
+msgid "Standard"
+msgstr "Standard"
+
+msgid "Strict DLNA"
+msgstr "Strict DLNA"
+
+msgid "Strictly adhere to DLNA standards."
+msgstr "Strictly adhere to DLNA standards."
+
+msgid "TiVo support"
+msgstr "TiVo support"
+
+msgid "Video"
+msgstr "Video"
+
+msgid "Warn"
+msgstr "Warn"
+
+msgid "Wide links"
+msgstr "Wide links"
+
+msgid "n/a"
+msgstr "n/a"

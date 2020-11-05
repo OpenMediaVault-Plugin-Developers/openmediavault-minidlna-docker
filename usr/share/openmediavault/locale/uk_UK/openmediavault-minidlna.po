@@ -1,0 +1,146 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the openmediavault-minidlna package.
+# 
+# Translators:
+# dsafsadf <heneral@gmail.com>, 2019
+# zubr139, 2013,2016
+msgid ""
+msgstr ""
+"Project-Id-Version: openmediavault-minidlna\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-19 11:25-0600\n"
+"PO-Revision-Date: 2019-09-24 12:43+0000\n"
+"Last-Translator: dsafsadf <heneral@gmail.com>\n"
+"Language-Team: Ukrainian (http://www.transifex.com/openmediavault-plugin-developers/openmediavault-minidlna/language/uk/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: uk\n"
+"Plural-Forms: nplurals=4; plural=(n % 1 == 0 && n % 10 == 1 && n % 100 != 11 ? 0 : n % 1 == 0 && n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14) ? 1 : n % 1 == 0 && (n % 10 ==0 || (n % 10 >=5 && n % 10 <=9) || (n % 100 >=11 && n % 100 <=14 )) ? 2: 3);\n"
+
+msgid "Add media share"
+msgstr "Додати в каталог медіа"
+
+msgid "All Media"
+msgstr "Все медіа"
+
+msgid "All media"
+msgstr "Все медіа"
+
+msgid "Audio"
+msgstr "Аудіо"
+
+msgid "Browse"
+msgstr "Огляд"
+
+msgid "Component"
+msgstr "Компонент"
+
+msgid "Content Type"
+msgstr "Тип контенту"
+
+msgid "Content Type(s)"
+msgstr "Тип(и) контенту"
+
+msgid "DLNA"
+msgstr "DLNA"
+
+msgid "Date & Time"
+msgstr "Дата і Час"
+
+msgid "Debug"
+msgstr "Відлагодження"
+
+msgid "Edit media share"
+msgstr "Редагувати каталог медіа"
+
+msgid "Enable"
+msgstr "Увімкнути"
+
+msgid "Error"
+msgstr "Помилка"
+
+msgid "Event"
+msgstr "Подія"
+
+msgid "Extra options"
+msgstr "Додаткові опції"
+
+msgid "Fatal"
+msgstr "Фатально"
+
+msgid "General settings"
+msgstr "Загальні налаштування"
+
+msgid "Images"
+msgstr "Зображення"
+
+msgid "Info"
+msgstr "Інформація"
+
+msgid "Log Level"
+msgstr "Рівень журналу"
+
+msgid "MiniDLNA"
+msgstr "MiniDLNA"
+
+msgid "MiniDLNA on OpenMediaVault"
+msgstr "MiniDLNA на OpenMediaVault"
+
+msgid "Music"
+msgstr "Музика"
+
+msgid "Name"
+msgstr "Ім'я"
+
+msgid "Off"
+msgstr "Вимкнути"
+
+msgid "Pictures"
+msgstr "Зображення"
+
+msgid "Port"
+msgstr "Порт"
+
+msgid "Rescan"
+msgstr "Повторне сканування"
+
+msgid "Root Container"
+msgstr "Кореневий контейнер"
+
+msgid "Settings"
+msgstr "Налаштування"
+
+msgid "Shared Folder"
+msgstr "Спільна тека"
+
+msgid "Shared folder containing media files"
+msgstr "Спільна тека, що містить медіа-файли"
+
+msgid "Shares"
+msgstr "Спісльний"
+
+msgid "Standard"
+msgstr "Стандарт"
+
+msgid "Strict DLNA"
+msgstr "Жорсткі DLNA"
+
+msgid "Strictly adhere to DLNA standards."
+msgstr "Суворо дотримуватися стандартів DLNA."
+
+msgid "TiVo support"
+msgstr "Підтримка TiVo"
+
+msgid "Video"
+msgstr "Відео"
+
+msgid "Warn"
+msgstr "Застереження"
+
+msgid "Wide links"
+msgstr "Розширенні посилання"
+
+msgid "n/a"
+msgstr "н/д"

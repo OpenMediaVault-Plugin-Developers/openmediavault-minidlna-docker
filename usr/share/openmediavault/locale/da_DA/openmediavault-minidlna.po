@@ -1,0 +1,145 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the openmediavault-minidlna package.
+# 
+# Translators:
+# Stefan Thrane Overby <stoverby@gmail.com>, 2013-2016
+msgid ""
+msgstr ""
+"Project-Id-Version: openmediavault-minidlna\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-19 11:25-0600\n"
+"PO-Revision-Date: 2019-01-19 17:26+0000\n"
+"Last-Translator: Aaron Murray <aaronmurray27@gmail.com>\n"
+"Language-Team: Danish (http://www.transifex.com/openmediavault-plugin-developers/openmediavault-minidlna/language/da/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: da\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Add media share"
+msgstr "Tilføj media deling"
+
+msgid "All Media"
+msgstr "Alle media"
+
+msgid "All media"
+msgstr "Alle media"
+
+msgid "Audio"
+msgstr "Lyd"
+
+msgid "Browse"
+msgstr "Gennemse"
+
+msgid "Component"
+msgstr "Komponent"
+
+msgid "Content Type"
+msgstr "Indholds Type"
+
+msgid "Content Type(s)"
+msgstr "Indholds Type(r)"
+
+msgid "DLNA"
+msgstr "DLNA"
+
+msgid "Date & Time"
+msgstr "Dato & Tid"
+
+msgid "Debug"
+msgstr "Debug"
+
+msgid "Edit media share"
+msgstr "Rediger media deling"
+
+msgid "Enable"
+msgstr "Aktiver"
+
+msgid "Error"
+msgstr "Fejl"
+
+msgid "Event"
+msgstr "Begivenhed"
+
+msgid "Extra options"
+msgstr "Ekstra valgmuligheder"
+
+msgid "Fatal"
+msgstr "Kritisk"
+
+msgid "General settings"
+msgstr "Generelle indstillinger"
+
+msgid "Images"
+msgstr "Billeder"
+
+msgid "Info"
+msgstr "Oplysning"
+
+msgid "Log Level"
+msgstr "Log Niveau"
+
+msgid "MiniDLNA"
+msgstr "MiniDLNA"
+
+msgid "MiniDLNA on OpenMediaVault"
+msgstr "MiniDLNA på OpenMediaVault"
+
+msgid "Music"
+msgstr "Musik"
+
+msgid "Name"
+msgstr "Navn"
+
+msgid "Off"
+msgstr "Fra"
+
+msgid "Pictures"
+msgstr "Billeder"
+
+msgid "Port"
+msgstr "Port"
+
+msgid "Rescan"
+msgstr "Genscan"
+
+msgid "Root Container"
+msgstr "Rod Beholder"
+
+msgid "Settings"
+msgstr "Indstillinger"
+
+msgid "Shared Folder"
+msgstr "Delt mappe"
+
+msgid "Shared folder containing media files"
+msgstr "Delte mapper indeholdende media filer."
+
+msgid "Shares"
+msgstr "Delinger"
+
+msgid "Standard"
+msgstr "Standard"
+
+msgid "Strict DLNA"
+msgstr "Udelukkende DLNA"
+
+msgid "Strictly adhere to DLNA standards."
+msgstr "Overhold udelukkende DLNA-standarder"
+
+msgid "TiVo support"
+msgstr "TiVo understøttelse"
+
+msgid "Video"
+msgstr "Video"
+
+msgid "Warn"
+msgstr "Advar"
+
+msgid "Wide links"
+msgstr ""
+
+msgid "n/a"
+msgstr "n/a"

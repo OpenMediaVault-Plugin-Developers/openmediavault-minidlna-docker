@@ -1,0 +1,148 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the openmediavault-minidlna package.
+# 
+# Translators:
+# Alexander Savchenko, 2013
+# Alexander Savchenko, 2015
+# Артур Мудрых <arturmon82@gmail.com>, 2013
+# Дмитрий <bardimnik@rambler.ru>, 2019
+msgid ""
+msgstr ""
+"Project-Id-Version: openmediavault-minidlna\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-19 11:25-0600\n"
+"PO-Revision-Date: 2019-08-08 12:53+0000\n"
+"Last-Translator: Дмитрий <bardimnik@rambler.ru>\n"
+"Language-Team: Russian (http://www.transifex.com/openmediavault-plugin-developers/openmediavault-minidlna/language/ru/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ru\n"
+"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || (n%100>=11 && n%100<=14)? 2 : 3);\n"
+
+msgid "Add media share"
+msgstr "Добавить общие медиа"
+
+msgid "All Media"
+msgstr "Вся медиа"
+
+msgid "All media"
+msgstr "Вся медиа"
+
+msgid "Audio"
+msgstr "Аудио"
+
+msgid "Browse"
+msgstr "Просмотреть"
+
+msgid "Component"
+msgstr "Компонент"
+
+msgid "Content Type"
+msgstr "Тип контента"
+
+msgid "Content Type(s)"
+msgstr "Тип(ы) контента"
+
+msgid "DLNA"
+msgstr "DLNA"
+
+msgid "Date & Time"
+msgstr "Дата и Время"
+
+msgid "Debug"
+msgstr "Отладить"
+
+msgid "Edit media share"
+msgstr "Редактировать общие медиа"
+
+msgid "Enable"
+msgstr "Включить"
+
+msgid "Error"
+msgstr "Ошибка"
+
+msgid "Event"
+msgstr "Событие"
+
+msgid "Extra options"
+msgstr "Дополнительные параметры"
+
+msgid "Fatal"
+msgstr "Недоступен"
+
+msgid "General settings"
+msgstr "Основные настройки"
+
+msgid "Images"
+msgstr "Изображения"
+
+msgid "Info"
+msgstr "Информация"
+
+msgid "Log Level"
+msgstr "Уровень журналирования"
+
+msgid "MiniDLNA"
+msgstr "MiniDLNA"
+
+msgid "MiniDLNA on OpenMediaVault"
+msgstr "MiniDLNA на OpenMediaVault"
+
+msgid "Music"
+msgstr "Музыка"
+
+msgid "Name"
+msgstr "Имя"
+
+msgid "Off"
+msgstr "Отключить"
+
+msgid "Pictures"
+msgstr "Изображения"
+
+msgid "Port"
+msgstr "Порт"
+
+msgid "Rescan"
+msgstr "Повторное сканирование"
+
+msgid "Root Container"
+msgstr "Корневой контейнер"
+
+msgid "Settings"
+msgstr "Настройки"
+
+msgid "Shared Folder"
+msgstr "Общая папка"
+
+msgid "Shared folder containing media files"
+msgstr "Общая папка, содержащая медиа-файлы"
+
+msgid "Shares"
+msgstr "Общие"
+
+msgid "Standard"
+msgstr "Стандарт"
+
+msgid "Strict DLNA"
+msgstr "Строгий DLNA"
+
+msgid "Strictly adhere to DLNA standards."
+msgstr "Строго придерживаться стандартов DLNA."
+
+msgid "TiVo support"
+msgstr "Поддержка TiVo"
+
+msgid "Video"
+msgstr "Видео"
+
+msgid "Warn"
+msgstr "Предупреждения"
+
+msgid "Wide links"
+msgstr "Широкие ссылки"
+
+msgid "n/a"
+msgstr "n/a"

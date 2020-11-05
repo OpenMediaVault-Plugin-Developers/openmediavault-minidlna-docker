@@ -1,0 +1,145 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the openmediavault-minidlna package.
+# 
+# Translators:
+# Miguel Anxo Bouzada <mbouzada@gmail.com>, 2013-2015
+msgid ""
+msgstr ""
+"Project-Id-Version: openmediavault-minidlna\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-19 11:25-0600\n"
+"PO-Revision-Date: 2019-01-19 17:26+0000\n"
+"Last-Translator: Aaron Murray <aaronmurray27@gmail.com>\n"
+"Language-Team: Galician (http://www.transifex.com/openmediavault-plugin-developers/openmediavault-minidlna/language/gl/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: gl\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Add media share"
+msgstr "Engadir contido"
+
+msgid "All Media"
+msgstr "Toda a multimedia"
+
+msgid "All media"
+msgstr "Toda a multimedia"
+
+msgid "Audio"
+msgstr "Son"
+
+msgid "Browse"
+msgstr ""
+
+msgid "Component"
+msgstr "Compoñente"
+
+msgid "Content Type"
+msgstr "Tipo de contido"
+
+msgid "Content Type(s)"
+msgstr "Tipo(s) de contido"
+
+msgid "DLNA"
+msgstr "DLNA"
+
+msgid "Date & Time"
+msgstr "Data e hora"
+
+msgid "Debug"
+msgstr "Depuración"
+
+msgid "Edit media share"
+msgstr "Editar o contido multimedia"
+
+msgid "Enable"
+msgstr "Activar"
+
+msgid "Error"
+msgstr "Erro"
+
+msgid "Event"
+msgstr "Actividade"
+
+msgid "Extra options"
+msgstr ""
+
+msgid "Fatal"
+msgstr "Fatal"
+
+msgid "General settings"
+msgstr "Axustes xerais"
+
+msgid "Images"
+msgstr "Imaxes"
+
+msgid "Info"
+msgstr "Información"
+
+msgid "Log Level"
+msgstr "Nivel de rexistro"
+
+msgid "MiniDLNA"
+msgstr ""
+
+msgid "MiniDLNA on OpenMediaVault"
+msgstr "MiniDLNA no OpenMediaVault"
+
+msgid "Music"
+msgstr ""
+
+msgid "Name"
+msgstr "Nome"
+
+msgid "Off"
+msgstr "Apagado"
+
+msgid "Pictures"
+msgstr ""
+
+msgid "Port"
+msgstr "Porto"
+
+msgid "Rescan"
+msgstr "Actualizar"
+
+msgid "Root Container"
+msgstr ""
+
+msgid "Settings"
+msgstr "Axustes"
+
+msgid "Shared Folder"
+msgstr "Cartafol compartido"
+
+msgid "Shared folder containing media files"
+msgstr "Cartafol compartido contendo ficheiros multimedia."
+
+msgid "Shares"
+msgstr "Compartidos"
+
+msgid "Standard"
+msgstr ""
+
+msgid "Strict DLNA"
+msgstr "DLNA estrito"
+
+msgid "Strictly adhere to DLNA standards."
+msgstr "Adherirse estritamente ao estandar DLNA."
+
+msgid "TiVo support"
+msgstr "Compatibilidade con "
+
+msgid "Video"
+msgstr "Vídeo"
+
+msgid "Warn"
+msgstr "Atención"
+
+msgid "Wide links"
+msgstr ""
+
+msgid "n/a"
+msgstr "n/d"
