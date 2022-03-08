@@ -1,3 +1,9 @@
+openmediavault-minidlna-docker (6.0) UNRELEASED; urgency=medium
+
+  * Update for OMV 6.x
+
+ -- OpenMediaVault Plugin Developers <plugins@omv-extras.org>  Tue, 08 Mar 2022 09:25:05 -0600
+
 openmediavault-minidlna-docker (5.0) stable; urgency=low
 
   * Initial commit

@@ -3,14 +3,15 @@ Section: net
 XB-Plugin-Section: multimedia
 Priority: optional
 Maintainer: OpenMediaVault Plugin Developers <plugins@omv-extras.org>
-Build-Depends: debhelper (>= 9.0.0 )
-Standards-Version: 3.9.6
+Build-Depends: debhelper (>= 12)
+Standards-Version: 4.3.0
 Homepage: http://omv-extras.org/
 
 Package: openmediavault-minidlna-docker
 Architecture: all
 Depends: docker-ce | docker.io,
-         openmediavault (>= 5.0),
+         openmediavault (>= 6.0.16),
+         python3-docker,
          ${misc:Depends}
 Description: OpenMediaVault docker miniDLNA (DLNA server) plugin
  lightweight DLNA/UPnP-AV server targeted at embedded systems

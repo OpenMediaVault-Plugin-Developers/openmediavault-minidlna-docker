@@ -1,0 +1,7 @@
+version: "1.0"
+type: navigation-item
+data:
+  path: "services.minidlna"
+  text: _("MiniDLNA")
+  icon: "mdi:view-stream-outline"
+  url: "/services/minidlna"
