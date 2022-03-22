@@ -26,6 +26,7 @@
 minidlna_container:
   docker_container.running:
     - image: vladgh/minidlna:latest
+    - restart_policy: always
     - port_bindings: 
       - {{ config.port }}:8200
     - environment:
